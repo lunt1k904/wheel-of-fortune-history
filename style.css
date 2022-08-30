@@ -4,6 +4,7 @@
   
   body {
     background: url("imgonline-com-ua-Resize-95FdLBKkWZDEdZ9q.jpg");
+    background-repeat: no-repeat;
     display: grid;
     place-items: center;
     overflow: hidden;
