@@ -1,7 +1,7 @@
 const prizes = [
     {
       text: "1",
-      color: "hsl(40, 100%, 46%)",
+      color: "hsl(0, 100%, 50%)",
     },
     { 
       text: "2",
@@ -9,7 +9,7 @@ const prizes = [
     },
     { 
       text: "3",
-      color: "hsl(40, 100%, 46%)",
+      color: "hsl(0, 100%, 50%)",
     },
     {
       text: "4",
@@ -17,7 +17,7 @@ const prizes = [
     },
     {
       text: "5",
-      color: "hsl(40, 100%, 46%)",
+      color: "hsl(0, 100%, 50%)",
     },
     {
       text: "6",
@@ -25,7 +25,7 @@ const prizes = [
     },
     {
       text: "7",
-      color: "hsl(40, 100%, 46%)",
+      color: "hsl(0, 100%, 50%)",
     },
     {
       text: "8",
@@ -33,7 +33,7 @@ const prizes = [
     },
     {
         text: "9",
-        color: "hsl(40, 100%, 46%)",
+        color: "hsl(0, 100%, 50%)",
      },
      {
         text: "10",
@@ -41,7 +41,7 @@ const prizes = [
      },
      {
         text: "11",
-        color: "hsl(40, 100%, 46%)",
+        color: "hsl(0, 100%, 50%)",
      },
      {
         text: "12",
@@ -49,7 +49,7 @@ const prizes = [
      },
      {
         text: "13",
-        color: "hsl(40, 100%, 46%)",
+        color: "hsl(0, 100%, 50%)",
      },
      {
         text: "14",
@@ -57,7 +57,7 @@ const prizes = [
      },
      {
         text: "15",
-        color: "hsl(40, 100%, 46%)",
+        color: "hsl(0, 100%, 50%)",
      },
      {
         text: "16",
@@ -65,7 +65,7 @@ const prizes = [
      },
      {
         text: "17",
-        color: "hsl(40, 100%, 46%)",
+        color: "hsl(0, 100%, 50%)",
      },
      {
         text: "18",
