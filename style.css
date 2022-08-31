@@ -84,6 +84,16 @@
     border-radius: 0.5rem;
     cursor: pointer;
   }
+
+  .bnt-gdz {
+    color: black;
+    background: black;
+    border: none;
+    font-size: inherit;
+    padding: 0.9rem 2rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
   
   .btn-spin:disabled {
     cursor: progress;
