@@ -4,7 +4,6 @@
   
   body {
     background: url("fon-book.png");
-    background-repeat: no-repeat;
     display: grid;
     place-items: center;
     overflow: hidden;
