@@ -1,77 +1,93 @@
 const prizes = [
-    {
-      text: "1",
-      color: "hsl(0, 100%, 50%)",
-    },
-    { 
-      text: "2",
-      color: "hsl(0, 100%, 96%)",
-    },
-    { 
-      text: "3",
-      color: "hsl(0, 100%, 50%)",
-    },
-    {
-      text: "4",
-      color: "hsl(0, 100%, 96%)",
-    },
-    {
-      text: "5",
-      color: "hsl(0, 100%, 50%)",
-    },
-    {
-      text: "6",
-      color: "hsl(0, 100%, 96%)",
-    },
-    {
+  {
+    text: "1",
+    color: "hsl(0, 100%, 50%)",
+  },
+  { 
+    text: "2",
+    color: "hsl(0, 100%, 96%)",
+  },
+  { 
+    text: "3",
+    color: "hsl(0, 100%, 50%)",
+  },
+  {
+    text: "-опрос",
+    color: "hsl(0, 100%, 96%)",
+  },
+  {
+    text: "4",
+    color: "hsl(0, 100%, 50%)",
+  },
+  {
+    text: "5",
+    color: "hsl(0, 100%, 96%)",
+  },
+  {
+    text: "6",
+    color: "hsl(0, 100%, 50%)",
+  },
+  {
+    text: "х2 д/з",
+    color: "hsl(0, 100%, 96%)",
+  },
+  {
       text: "7",
       color: "hsl(0, 100%, 50%)",
-    },
-    {
+   },
+   {
       text: "8",
       color: "hsl(0, 100%, 96%)",
-    },
-    {
-        text: "9",
-        color: "hsl(0, 100%, 50%)",
-     },
-     {
-        text: "10",
-        color: "hsl(0, 100%, 96%)",
-     },
-     {
-        text: "11",
-        color: "hsl(0, 100%, 50%)",
-     },
-     {
-        text: "12",
-        color: "hsl(0, 100%, 96%)",
-     },
-     {
-        text: "13",
-        color: "hsl(0, 100%, 50%)",
-     },
-     {
-        text: "14",
-        color: "hsl(0, 100%, 96%)",
-     },
-     {
-        text: "15",
-        color: "hsl(0, 100%, 50%)",
-     },
-     {
-        text: "16",
-        color: "hsl(0, 100%, 96%)",
-     },
-     {
-        text: "17",
-        color: "hsl(0, 100%, 50%)",
-     },
-     {
-        text: "18",
-        color: "hsl(0, 100%, 96%)",
-     },
-  ];
+   },
+   {
+      text: "9",
+      color: "hsl(0, 100%, 50%)",
+   },
+   {
+      text: "реролл",
+      color: "hsl(0, 100%, 96%)",
+   },
+   {
+      text: "10",
+      color: "hsl(0, 100%, 50%)",
+   },
+   {
+      text: "11",
+      color: "hsl(0, 100%, 96%)",
+   },
+   {
+      text: "12",
+      color: "hsl(0, 100%, 50%)",
+   },
+   {
+      text: "13",
+      color: "hsl(0, 100%, 96%)",
+   },
+   {
+      text: "14",
+      color: "hsl(0, 100%, 50%)",
+   },
+   {
+      text: "15",
+      color: "hsl(0, 100%, 96%)",
+   },
+   {
+    text: "отмена д/з",
+    color: "hsl(0, 100%, 50%)",
+ },
+ {
+  text: "16",
+  color: "hsl(0, 100%, 96%)",
+ },
+ {
+  text: "17",
+  color: "hsl(0, 100%, 50%)",
+},
+{
+  text: "18",
+  color: "hsl(0, 100%, 96%)",
+ },
+];
   
   const wheel = document.querySelector(".deal-wheel");
   const spinner = wheel.querySelector(".spinner");
