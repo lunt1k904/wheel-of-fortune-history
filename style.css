@@ -115,7 +115,7 @@
   }
   
   .prize.selected .text {
-    color: white;
+    color: blue;
     animation: selected 800ms ease;
   }
   
